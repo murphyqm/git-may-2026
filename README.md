@@ -1,5 +1,5 @@
-# git-may-2026
+# Testing `git` undo options is so much fun!
 
-Test repository for learning git
+This is a very important project being carried out by Maeve to investigate the different possibilities of git and the various way to "undo" different changes.
 
-Here is some extra text
+It's a good idea to use throwaway testing repositories like this to practice and get used to different commands, so that you don't accidentally lose your important research work.
